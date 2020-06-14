@@ -1,0 +1,271 @@
+﻿  AutomatedSender.cpp
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(88): warning C4566: character represented by universal-character-name '\U0001F58B' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\u270D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F4F9' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E6' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(132): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(145): warning C4566: character represented by universal-character-name '\U0001F914' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(164): warning C4566: character represented by universal-character-name '\U0001F44D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F4AA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(167): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(168): warning C4566: character represented by universal-character-name '\U0001F604' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(171): warning C4566: character represented by universal-character-name '\U0001F62E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F436' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(173): warning C4566: character represented by universal-character-name '\U0001F69C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\u2728' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F4AB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(187): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(189): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\u27A1' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F447' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(194): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F577' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(202): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(216): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(217): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(220): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(28): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(28): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(38): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(38): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(47): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(47): error C2061: syntax error: identifier 'string_view'
+  string_view is only available with C++17 or later.
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.h(20): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\regex(54): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.h(20): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.cpp(7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.cpp(14): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.cpp(17): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\regex(54): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.cpp(17): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.cpp(20): error C2065: 'threadType': undeclared identifier
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.cpp(20): error C2065: 'data': undeclared identifier
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.cpp(26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(88): warning C4566: character represented by universal-character-name '\U0001F58B' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\u270D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F4F9' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E6' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(132): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(145): warning C4566: character represented by universal-character-name '\U0001F914' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(164): warning C4566: character represented by universal-character-name '\U0001F44D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F4AA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(167): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(168): warning C4566: character represented by universal-character-name '\U0001F604' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(171): warning C4566: character represented by universal-character-name '\U0001F62E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F436' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(173): warning C4566: character represented by universal-character-name '\U0001F69C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\u2728' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F4AB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(187): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(189): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\u27A1' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F447' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(194): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F577' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(202): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(216): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(217): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(220): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(28): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(28): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(38): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(38): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(47): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(47): error C2061: syntax error: identifier 'string_view'
+  string_view is only available with C++17 or later.
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.h(20): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\regex(54): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\automatedsender.h(20): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\main.cpp(12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\main.cpp(57): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\main.cpp(67): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\queue(451): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\main.cpp(67): error C3861: 'string_view': identifier not found
+  MockRepository.cpp
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(88): warning C4566: character represented by universal-character-name '\U0001F58B' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\u270D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F4F9' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E6' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(132): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(145): warning C4566: character represented by universal-character-name '\U0001F914' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(164): warning C4566: character represented by universal-character-name '\U0001F44D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F4AA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(167): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(168): warning C4566: character represented by universal-character-name '\U0001F604' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(171): warning C4566: character represented by universal-character-name '\U0001F62E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F436' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(173): warning C4566: character represented by universal-character-name '\U0001F69C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\u2728' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F4AB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(187): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(189): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\u27A1' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F447' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(194): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F577' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(202): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(216): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(217): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(220): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.cpp(6): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.cpp(12): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.cpp(17): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  TcpClient.cpp
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(88): warning C4566: character represented by universal-character-name '\U0001F58B' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\u270D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(89): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F4F9' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(92): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1E6' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(125): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(132): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(145): warning C4566: character represented by universal-character-name '\U0001F914' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(164): warning C4566: character represented by universal-character-name '\U0001F44D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F4AA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(166): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(167): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(168): warning C4566: character represented by universal-character-name '\U0001F604' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(171): warning C4566: character represented by universal-character-name '\U0001F62E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F60A' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(172): warning C4566: character represented by universal-character-name '\U0001F436' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(173): warning C4566: character represented by universal-character-name '\U0001F69C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(177): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(180): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\u2728' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F384' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(181): warning C4566: character represented by universal-character-name '\U0001F4AB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1EC' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(185): warning C4566: character represented by universal-character-name '\U0001F1E7' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(187): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(189): warning C4566: character represented by universal-character-name '\U0001F449' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\u27A1' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1EA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(190): warning C4566: character represented by universal-character-name '\U0001F1FA' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F447' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(192): warning C4566: character represented by universal-character-name '\U0001F3FB' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(194): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41D' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41C' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F577' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(199): warning C4566: character represented by universal-character-name '\U0001F41E' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(202): warning C4566: character represented by universal-character-name '\U0001F44F' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\U0001F534' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(215): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(216): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(217): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\mockrepository.h(220): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(28): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(28): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(38): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(38): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(47): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.h(47): error C2061: syntax error: identifier 'string_view'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(36): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(48): warning C4309: '=': truncation of constant value
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(66): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(66): error C2065: 'string_view': undeclared identifier
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(66): error C2146: syntax error: missing ')' before identifier 'request'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(67): error C2143: syntax error: missing ';' before '{'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(67): error C2447: '{': missing function header (old-style formal list?)
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(95): error C2039: 'string_view': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\vc\tools\msvc\14.16.27023\include\mutex(26): note: see declaration of 'std'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(95): error C2065: 'string_view': undeclared identifier
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(95): error C2146: syntax error: missing ')' before identifier 'threadType'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(96): error C2143: syntax error: missing ';' before '{'
+c:\users\b6020344\source\repos\tcpclient\tcpclient\tcpclient.cpp(96): error C2447: '{': missing function header (old-style formal list?)
+  ThreadPool.cpp
+  Generating Code...
